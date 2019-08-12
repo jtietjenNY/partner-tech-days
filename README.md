@@ -11,15 +11,15 @@ The intent is to enable Red Hat Business Partners with updates on our latest pro
 
 * **8:00 a.m. – 8:30 a.m.**	*Check-In and Continental Breakfast*
 * **8:30 a.m. – 9:00 a.m.**	Introduction Day Overview
-* **9:00 a.m. – 10:20 a.m.**	RHEL 8 and Red Hat Virtualization (RHV) 4
+* **9:00 a.m. – 10:20 a.m.**	RHEL 8 and Ansible Automation
 * **10:20 a.m. – 10:30 a.m.**	*Break*
-* **10:30 a.m. – 12:00 p.m.**	OCP 4 and Ansible Automation
+* **10:30 a.m. – 12:00 p.m.**	Red Hat Virtualization (RHV) 4 and OCP 4
 
-* **12:00 p.m. – 1:00 p.m.**	Lunch & Partnering w/ Red Hat Professional Services
+* **12:00 p.m. – 1:00 p.m.**	Lunch & Partnering w/ Red Hat Training
 
-* **1:00 p.m. – 4:00 p.m.**	Open Labs: RHEL 8, OCP 4, Ansible, and RHV 4
+* **1:00 p.m. – 3:00 p.m.**	Open Labs: RHEL 8, OCP 4, Ansible, and RHV 4
 
-* **4:00 p.m. – 6:00 p.m.**	*Happy Hour*
+* **3:00 p.m. – 5:00 p.m.**	*Happy Hour*
 
 
 ## Content
@@ -34,7 +34,7 @@ The intent is to enable Red Hat Business Partners with updates on our latest pro
   
 ### Lunch: 
 
-  * Presentation: Partnering w/ Red Hat Professional Services
+  * Presentation: Partnering w/ Red Hat Training
 
 ### Afternoon:
 
